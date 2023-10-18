@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+#devicon {
+	font-size: 75px;
+}
+
 ol, ul {
 	list-style: none;
 }
