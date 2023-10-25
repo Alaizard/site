@@ -1989,14 +1989,13 @@ input, select, textarea {
 	}
 
 		.item header {
-			background: #fff;
 			margin: 0;
 			padding: 1em 0 1em 0;
 			font-size: 0.8em;
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				font-size: 32px;
 			}
 
 /* Icons */
@@ -2634,4 +2633,10 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
+	}
+
+	.projectName {
+		font-weight:200;
+		color: black;
+		size: 26px;
 	}
