@@ -2640,3 +2640,10 @@ input, select, textarea {
 		color: black;
 		size: 26px;
 	}
+	
+	.portImage {
+		float: left;
+		width:  300px;
+		height: 250px;
+		object-fit: cover;
+	}
