@@ -1753,6 +1753,16 @@ input, select, textarea {
 		border: 0;
 	}
 
+	.image.feature {
+		display: block;
+		border-radius: 25%;
+		width: 20%;
+		height: 30%;
+		margin: auto;
+	}
+		
+
+
 		.image img {
 			display: block;
 			width: 100%;
@@ -2244,7 +2254,7 @@ input, select, textarea {
 					}
 
 			#main > section.cover {
-				padding: 10em 0;
+				padding: 4em 0;
 				background-size: cover;
 				background-position: center center;
 			}
